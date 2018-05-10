@@ -10,3 +10,4 @@ Docker最佳实践合集
 |5|[Container Storage Best Practices](https://www.aquasec.com/wiki/display/containers/Container+Storage+Best+Practices)|
 |6|[Container Networking Best Practices](https://www.aquasec.com/wiki/display/containers/Container+Networking+Best+Practices#perspectives-on-container-networking-best-practices)|
 |7|[Docker Security: Risks, Benefits and 8 Best Practices](https://www.aquasec.com/wiki/display/containers/Docker+Security+-+Risks%2C+Benefits+and+8+Best+Practices)|
+|8|[Deploy a registry server](https://docs.docker.com/registry/deploying/)|
